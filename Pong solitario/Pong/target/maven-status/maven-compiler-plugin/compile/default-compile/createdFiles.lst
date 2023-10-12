@@ -1,7 +1,9 @@
+clases\Audio.class
 clases\ventana.class
-principal\principal.class
 clases\EventoTeclado.class
 clases\raquetea.class
+clases\TableroJuego.class
+clases\FondoPanel.class
+principal\principal.class
 clases\pelota.class
 clases\Hilo.class
-clases\TableroJuego.class
